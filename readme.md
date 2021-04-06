@@ -16,7 +16,7 @@ This code editor have the minimal requirments for coding.
 	* *Note button*
 
 * Note Button
-	This button will create a new window for you to take notes or any other things as you like.
+	* This button will create a new window for you to take notes or any other things as you like.
 
 ### Comment
 
