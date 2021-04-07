@@ -5,7 +5,7 @@ root=Tk()
 
 if __name__ == '__main__':
  	notification.notify(
- 	title = "WELCOME TO OMEGA",
+ 	title = "WELCOME TO CODE-{PAD}",
  	message ="This a  code editor for beginners.\nWe hope you like it.\nThank you for donloading this editor.",
  	app_icon = "/home/aritra/completed py projects/ico.ico",
  	timeout= 13
@@ -56,3 +56,4 @@ entry1=Text(root,height=33,width=58,wrap=WORD)
 entry1.place(x=10,y=50)
 
 root.mainloop()
+
